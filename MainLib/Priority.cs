@@ -14,5 +14,6 @@ namespace MainLib
 		public decimal IncreaseCost { get; set; }
 
 		public Priority() { }
+
 	}
 }
